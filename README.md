@@ -30,7 +30,7 @@ Getting Started
 1. Clone the repository using git clone https://github.com/Kunjal123161/Personal-Fitness-Tracker.git
 2. Install the required libraries using the above commands
 3. Run the app using python app.py
-4. Run the data analysis script using python dataanalysis.py
+4. Run the data analysis script using python datamergedanalysis.py
 
 Datasets
 - calories.csv: Contains data on individual calorie intake.
